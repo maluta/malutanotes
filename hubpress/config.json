@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "maluta",
-    "repositoryName": "malutanotes",
-    "branch": "gh-pages"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"maluta","repositoryName":"malutanotes","branch":"gh-pages"},"site":{"url":"http://maluta.github.io/malutanotes"},"socialnetwork":{"twitter":"maluta"},"theme":{"name":"Casper","url":"http://maluta.github.io/malutanotes/themes/Casper"}}
